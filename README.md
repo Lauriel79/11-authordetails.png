@@ -1,2 +1,2 @@
 # 11-authordetails.png
-Author
+*Author*
